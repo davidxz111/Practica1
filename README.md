@@ -1,6 +1,6 @@
 # Práctica: Refactorización POO de Simulación Industrial (MuJoCo y OpenCV)
 
-Práctica desarrollada para la asignatura de Programación Orientada a Objetos (POO) en la Universidad de Burgos (UBU). El objetivo principal ha sido transformar una simulación industrial basada en un enfoque procedural en una arquitectura limpia y modular orientada a objetos.
+Práctica desarrollada para la asignatura de Programación Orientada a Objetos (POO)
 
 ## Tecnologías utilizadas
 
