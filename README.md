@@ -4,7 +4,7 @@ Práctica desarrollada para la asignatura de Programación Orientada a Objetos (
 
 ## Tecnologías utilizadas
 
-* Python 3.x
+* Python 3
 * MuJoCo (Motor de física y simulación 3D)
 * OpenCV (`opencv-python`) (Procesamiento de visión artificial y detección de formas)
 * NumPy
